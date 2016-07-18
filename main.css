@@ -1,0 +1,37 @@
+button {
+  min-width: 3em;
+  min-height: 3em;
+  border-radius: 1.5em;
+}
+
+.pink{
+  background-color: pink;
+}
+
+.orange{
+  background-color: orange;
+}
+
+
+.pinkbutton{
+  /*background-color: pink;*/
+  color: pink;
+}
+
+.red {
+  background-color: red;
+
+}
+
+.orangebutton {
+  /*background-color: orange;*/
+  color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
